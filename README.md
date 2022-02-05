@@ -1,8 +1,10 @@
 # # ublock-adblock-example-rules
 ## ublock or adblock filter rules with examples.
 
+
+
 "!" charater means that this line is comment line and will be ignored
-https://pandao.github.io/editor.md/en.html
+
 
 Lets start with this rule:
 
@@ -20,3 +22,8 @@ www.abc.us##[id^=google_ads_iframe_]
 ```
 
 this rule blocks divs which ones id starts with "google_ads_iframe_"
+
+
+
+
+this content has been created with this: https://pandao.github.io/editor.md/en.html
