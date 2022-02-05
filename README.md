@@ -12,7 +12,7 @@ Lets start with this rule:
  ! 19.03.2020 https://www.abc.com
 www.abc.com##.background-ads
 ```
-This rule blocks divs in abc.com which class has ".background-ads" 
+The above rule will block divs in abc.com, which has "background-ads" in class attribute
 
 
 Lets continue with this rule:
@@ -21,7 +21,7 @@ Lets continue with this rule:
 www.abc.us##[id^=google_ads_iframe_]
 ```
 
-this rule blocks divs which ones id starts with "google_ads_iframe_"
+The above rule will block divs which one's id attribute starts with "google_ads_iframe_"
 
 
 
